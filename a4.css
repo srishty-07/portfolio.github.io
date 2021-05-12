@@ -8,7 +8,7 @@ body{
     /* background:url("https://images.unsplash.com/photo-1476842634003-7dcca8f832de?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGRhcmt8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
     background-position: center;
     background-size: cover; */
-    background-color: #fefae0;
+    
 }
 .hand{
     height:50px;
@@ -50,6 +50,12 @@ body{
     margin-left: -114px;
     /* box-shadow: 34px -20px 45px 8px teal; */
 
+}
+.imgth{
+    margin-left: 224px;
+    height: 334px;
+    width: 895px;
+    margin-top: 165px;
 }
 .mysef{
     background-color: #6902d6;
@@ -188,7 +194,7 @@ body{
     to {top: 200px;}
   }
 .git p{
-    padding: 7px 10px;
+    padding: 7px 103px;;
     /* font-weight: lighter; */
     font-size: 1.41rem;
     
@@ -232,6 +238,9 @@ body{
         height:700px;
         display: flex;
         width:101vw;
+    }
+    .imgth{
+        display: none;
     }
     .mysef h1{
         align-items: center;
